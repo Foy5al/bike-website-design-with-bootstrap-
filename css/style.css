@@ -1,0 +1,28 @@
+/* heading bg */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.heading-bg {
+    background-color: #264653;
+}
+
+.btn-org {
+    background-color: #E76F51;
+    color: whitesmoke;
+    padding-left: 42px;
+    padding-right: 42px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.img-gray {
+    filter: grayscale(100%);
+}
+.txt-orange {
+    color: #E76F51;
+}
+.star-color {
+    color: #E77C40;
+}
+.icon-size {
+    font-size: 48px;
+}
